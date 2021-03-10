@@ -1,0 +1,74 @@
+body{
+    background: rgb(22, 22, 22);
+    text-align: center;
+}
+
+h2{
+    color: white;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+b{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+a{
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 900;
+    color: rgb(187, 25, 25);
+}
+
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.acard img{
+    width: 400px;
+    height: 220px;
+}
+
+.gruppetext{
+    width: 1000px;
+    position: relative;
+    left: 450px;
+}
+
+.button{
+    text-align: center;
+    width: 150px;
+    height: 35px;
+    background: rgb(187, 25, 25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+a{
+    font-weight: bold;
+}
+
+.acard{
+    width: 800px;
+    height: 400px;
+    background: rgb(16, 16, 16);
+    border: 2px solid rgb(187, 25, 25);
+    margin-bottom: 50px;
+    position: relative;
+    left: 550px;
+    text-align: center;
+}
